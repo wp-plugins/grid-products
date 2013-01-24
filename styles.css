@@ -1,0 +1,139 @@
+.product-catname {
+font-size: 22px;
+color: #4B4545;
+line-height: 24px;
+border-bottom: 2px solid #787474;
+margin: 0 0 15px 3px;
+padding: 20px 0 0 0;
+text-transform: capitalize;
+}
+
+.productcatdes {
+float:left;
+width:95%;
+margin:0 0 10px 1%;
+}
+
+
+.producttable {
+width:100%;
+-moz-border-radius: 15px 15px 15px 15px;
+border-radius: 15px 15px 15px 15px;
+}
+
+
+
+.producttable td{
+    vertical-align: top;
+	padding:5px;
+}
+
+.product-title a{
+float:left;
+width:100%;
+font-size:18px;
+text-decoration:none;
+font-weight:bold;
+padding:10px 0 10px 0;
+color:#002e69;
+}
+
+.product-title a:hover{
+color:#5ec1fc;
+}
+
+.product-excerpt {
+float:left;
+width:100%;
+}
+
+
+.productmoretag a{
+float: right;
+-moz-border-radius: 5px 5px 5px 5px;
+border-radius: 5px 5px 5px 5px;
+background: none repeat scroll 0 0 #002e69;
+display: block;
+padding: 3px 5px;
+font-size: 10pt;
+color: #fff;
+text-decoration: none;
+}
+
+.productmoretag a:hover {
+background: none repeat scroll 0 0 #6e95b6;
+text-decoration: none;
+color: #fff;
+text-decoration: none;
+}
+
+
+.producttable .spacer{
+float:left;
+width:100%;
+height:20px;
+}
+
+.productcategoryholder {
+float:left;
+width:100%;
+margin:0 0 20px 0;
+-moz-border-radius: 15px 15px 15px 15px;
+border-radius: 15px 15px 15px 15px;
+}
+
+.productholder {
+float:left;
+width:210px;
+margin:0 0 0 20px;
+text-align:center;
+}
+
+.productmoreholder {
+float:left;
+width:100%;
+margin:5px 0 15px 0 ;
+}
+
+
+.productgridimage {
+float:left;
+width:100%;
+margin:10px 0 0 0 ;
+}
+
+
+
+
+
+ul.products {
+float:left;
+width:100%;
+margin:0 0 20px 0 ;
+-moz-border-radius: 15px 15px 15px 15px;
+border-radius: 15px 15px 15px 15px;
+}
+
+ul h4 {
+float:left;
+width:100%;
+margin:10px 0 0 0 ;
+}
+
+ul.products li {
+    width: 195px;
+    display: inline-block;
+	text-align:center;
+	list-style:none;
+	margin:10px 0 15px 0px;
+	vertical-align:top;
+	font-size:11pt;
+	*display: inline;
+    *zoom: 1;
+padding:0 15px 0 20px;
+}
+
+ul p {	
+font-size:11pt;
+line-height:13pt;
+}
