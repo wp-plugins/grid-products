@@ -1,6 +1,6 @@
 === Grid Products ===
 Contributors: jonathanhadams, ModDish
-Donate link: http://printingpeach.ca/postcard-printing/
+Donate link: http://printingpeach.ca/
 Tags: grid products, products grid, products in table, products display
 Requires at least: 3.0.1
 Tested up to: 3.5
