@@ -18,6 +18,8 @@ You can create product categories and individual products with descriptions and 
 
 This plug-in is also compatible with Cart66 should you wish to add the ability to purchase products. Also compatible with other plug-ins such as NextGEN Gallery.
 
+We created this plugin to display items on a clients website and have even used it ourself to display printing products such as flyers, brochures, postcards, business cards etc. We decided to share it with the world :-)
+
 
 == Installation ==
 
