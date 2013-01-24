@@ -1,6 +1,6 @@
 === Grid Products ===
 Contributors: jonathanhadams, ModDish
-Donate link: http://printingpeach.ca/
+Donate link: http://printingpeach.ca/postcard-printing/
 Tags: grid products, products grid, products in table, products display
 Requires at least: 3.0.1
 Tested up to: 3.5
@@ -8,9 +8,11 @@ Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Grid Products allows you to display products (or other data) in a grid format or list format within your WordPress website.
+
 == Description ==
 
-Grid Products allows you to display products in a grid format or list format within your WordPress website.
+Grid Products allows you to display products (or other data) in a grid format or list format within your WordPress website.
 
 You can create product categories and individual products with descriptions and product images in one central location to be output on multiple pages in various formats (grid, list, featured products etc). You can also manage unique excerpts/descriptions for each product.
 
