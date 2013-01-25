@@ -96,3 +96,25 @@ Used to set the number of words used in the excerpt in the default grid view. (d
 
 Usage : maxdes="50"
 
+== Screenshots ==
+
+1. Front end example
+
+2. Front end example
+
+3. Front end example
+
+4. Front end example
+
+5. Front end example
+
+6. Front end example
+
+7. Back end example
+
+8. Back end example
+
+9. Back end example
+
+
+
