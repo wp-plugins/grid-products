@@ -16,6 +16,7 @@ margin:0 0 10px 1%;
 
 
 .producttable {
+float:left;
 width:100%;
 -moz-border-radius: 15px 15px 15px 15px;
 border-radius: 15px 15px 15px 15px;

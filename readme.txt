@@ -3,8 +3,8 @@ Contributors: jonathanhadams, ModDish
 Donate link: http://printingpeach.ca/
 Tags: grid products, products grid, products in table, products display
 Requires at least: 3.0.1
-Tested up to: 3.5
-Stable tag: 1.0
+Tested up to: 3.5.1
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,7 +28,9 @@ Extract the zip file and upload the contents to the wp-content/plugins/ director
 The plugin registers a new custom post type, so you'll want to update your permalinks. No need to change your permalink structure, just go to "Settings->Permalinks" and click "Save Changes" without making any modifications.
 
 
-Possible Shortcodes
+Possible Shortcode [product]
+
+Shortcode options :
 
 -------------------------------------------------------------
 
