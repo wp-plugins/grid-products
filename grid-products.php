@@ -5,7 +5,7 @@ Description: Manage product products
 Author: Evan M
 Author URI: website-design-firm.com
 Plugin URI: website-design-firm.com
-Version: 1.2
+Version: 1.3
 */ 
 
 
